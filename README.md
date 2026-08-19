@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I’m Milli Bora 👋
 
-<!--
-**millibora/millibora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Founder & Full-Stack Developer** behind **Study With AI Guru**—an AI-powered learning platform focused on making high-quality learning more accessible, personalized, and effective.
 
-Here are some ideas to get you started:
+I design, build, and ship end-to-end SaaS products: from polished user experiences and secure authentication to scalable APIs, database architecture, subscriptions, and content safety.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I build
+
+- AI-powered learning experiences and education products
+- Production-ready full-stack SaaS applications
+- Secure authentication, authorization, and role-based access systems
+- Subscription plans, usage limits, and scalable business logic
+- Reliable APIs, database workflows, and content-moderation systems
+
+## Tech Stack
+
+- **Frontend:** Next.js, React, TypeScript
+- **Backend:** Node.js, Next.js API Routes, REST APIs
+- **Database:** PostgreSQL, Prisma ORM
+- **Authentication:** Clerk
+- **Deployment & Tools:** Vercel, Git, GitHub
+
+## Current Focus
+
+- Growing and improving **Study With AI Guru**
+- Building robust subscription and user-tier systems
+- Improving API reliability, performance, and error handling
+- Developing safer AI and content-moderation workflows
+- Deepening expertise in advanced Next.js architecture and deployment
