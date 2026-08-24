@@ -1,46 +1,58 @@
-# Hi, I’m Milli Bora 👋
+# Study With AI Guru
 
-Founder and Full-Stack Developer behind **Study With AI Guru**—an AI-powered learning platform that helps school and college students understand chapters, practise concepts, and prepare for exams.
 
-## Study With AI Guru
 
-Study With AI Guru turns uploaded PDFs or typed chapter content into a structured learning experience.
+An AI-powered learning platform that helps school and college students understand chapters, practise concepts, and prepare for exams.
 
-Students can:
+## Live Website
 
-- Get simple AI-generated explanations of chapters and concepts
-- Identify key terms and important topics
-- Learn through relatable example stories
-- Discover topic-relevant YouTube learning resources
-- Generate concept-based mock papers
-- Choose Basic or Advanced practice levels
-- Prepare using exam-pattern-focused questions
-- Track their study activity through secure user accounts
+https://www.studywithaiguru.com
 
-**Goal:** Help students move from:
+## Overview
 
-> Chapter → Understanding → Practice → Exam Preparation
+Study With AI Guru turns uploaded chapter PDFs or typed content into an exam-focused learning experience.
 
-## What I Build
+Instead of only summarizing a chapter, the platform helps students understand concepts in simple language, remember them through examples, practise at different difficulty levels, and prepare with concept-based mock papers.
 
-- AI-powered learning and education products
-- Production-ready full-stack SaaS applications
-- Secure authentication, authorization, and role-based access systems
-- Subscription plans, usage limits, and scalable business logic
-- Reliable APIs, database workflows, and content-moderation systems
+## Features
 
-## Tech Stack
+- Upload chapter PDFs or paste chapter content
+- Simple AI-generated concept explanations
+- Important keywords and topic extraction
+- Story-based examples for easier understanding and recall
+- Topic-relevant YouTube video suggestions
+- Concept-based mock-paper generation
+- Basic and Advanced practice levels
+- Exam-pattern-focused questions
+- Secure user authentication
+- Study history and learning activity tracking
 
-- **Frontend:** Next.js, React, TypeScript
-- **Backend:** Node.js, Next.js API Routes, REST APIs
-- **Database:** PostgreSQL, Prisma ORM
-- **Authentication:** Clerk
-- **Deployment & Tools:** Vercel, Git, GitHub
+## Learning Flow
 
-## Current Focus
+> Chapter → Simple Explanation → Keywords & Examples → Practice → Mock Paper → Exam Preparation
 
-- Growing and improving Study With AI Guru
-- Building robust subscription and user-tier systems
-- Improving API reliability, performance, and error handling
-- Developing safer AI and content-moderation workflows
-- Deepening expertise in advanced Next.js architecture and deployment
+
+
+
+## My Role
+
+Founder and Full-Stack Developer.
+
+I designed and developed the platform end-to-end, including the user experience, authentication, API routes, database workflows, AI-powered study generation, mock-test logic, deployment, and product iteration.
+
+## Project Status
+
+Study With AI Guru is actively being developed and improved.
+
+Current areas of focus include:
+
+- More reliable PDF processing
+- Better exam-pattern customization
+- Subscription and usage-limit systems
+- Improved API reliability and error handling
+- Safer AI and content-moderation workflows
+
+## Source Code
+
+The production source code is private because Study With AI Guru is an actively developed SaaS product.
+This repository is a public product portfolio and project overview.
