@@ -1,12 +1,29 @@
 # Hi, I’m Milli Bora 👋
 
-**Founder & Full-Stack Developer** behind **Study With AI Guru**—an AI-powered learning platform focused on making high-quality learning more accessible, personalized, and effective.
+Founder and Full-Stack Developer behind **Study With AI Guru**—an AI-powered learning platform that helps school and college students understand chapters, practise concepts, and prepare for exams.
 
-I design, build, and ship end-to-end SaaS products: from polished user experiences and secure authentication to scalable APIs, database architecture, subscriptions, and content safety.
+## Study With AI Guru
 
-## What I build
+Study With AI Guru turns uploaded PDFs or typed chapter content into a structured learning experience.
 
-- AI-powered learning experiences and education products
+Students can:
+
+- Get simple AI-generated explanations of chapters and concepts
+- Identify key terms and important topics
+- Learn through relatable example stories
+- Discover topic-relevant YouTube learning resources
+- Generate concept-based mock papers
+- Choose Basic or Advanced practice levels
+- Prepare using exam-pattern-focused questions
+- Track their study activity through secure user accounts
+
+**Goal:** Help students move from:
+
+> Chapter → Understanding → Practice → Exam Preparation
+
+## What I Build
+
+- AI-powered learning and education products
 - Production-ready full-stack SaaS applications
 - Secure authentication, authorization, and role-based access systems
 - Subscription plans, usage limits, and scalable business logic
@@ -22,7 +39,7 @@ I design, build, and ship end-to-end SaaS products: from polished user experienc
 
 ## Current Focus
 
-- Growing and improving **Study With AI Guru**
+- Growing and improving Study With AI Guru
 - Building robust subscription and user-tier systems
 - Improving API reliability, performance, and error handling
 - Developing safer AI and content-moderation workflows
