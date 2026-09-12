@@ -1,4 +1,4 @@
-# Study With AI Guru
+# TROP8 Ai
 
 
 
