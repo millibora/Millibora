@@ -6,7 +6,7 @@ An AI-powered learning platform that helps school and college students understan
 
 ## Live Website
 
-https://www.studywithaiguru.com
+https://www.trop8.com/
 
 ## Overview
 
