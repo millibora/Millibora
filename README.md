@@ -10,7 +10,7 @@ https://www.trop8.com/
 
 ## Overview
 
-Study With AI Guru turns uploaded chapter PDFs or typed content into an exam-focused learning experience.
+TROP 8 AI  turns uploaded chapter PDFs or typed content into an exam-focused learning experience.
 
 Instead of only summarizing a chapter, the platform helps students understand concepts in simple language, remember them through examples, practise at different difficulty levels, and prepare with concept-based mock papers.
 
@@ -42,7 +42,7 @@ I designed and developed the platform end-to-end, including the user experience,
 
 ## Project Status
 
-Study With AI Guru is actively being developed and improved.
+TROP 8 AI  is actively being developed and improved.
 
 Current areas of focus include:
 
@@ -54,5 +54,5 @@ Current areas of focus include:
 
 ## Source Code
 
-The production source code is private because Study With AI Guru is an actively developed SaaS product.
+The production source code is private because TROP 8 AI  is an actively developed SaaS product.
 This repository is a public product portfolio and project overview.
